@@ -60,15 +60,7 @@ Missing Skills:
 
 ---
 
-# Gelecekte Yapılabilecek Geliştirmeler
 
-- PDF CV yükleme sistemi
-- Gelişmiş ATS skorlama
-- Yapay zeka destekli CV geri bildirimi
-- Transformer tabanlı semantic matching
-- Dashboard ve veri görselleştirme sistemi
-
----
 
 # Proje Amacı
 
